@@ -1,12 +1,8 @@
 **Requirements**
 ## Dependencies
-- Python 3.x
-- Selenium
-- BeautifulSoup
-
-**Download the Chrome WebDriver compatible with your Chrome browser version from Chrome WebDriver Downloads and ensure it's in your system's PATH.
-Install Selenium
-Install BeautifulSoup**
+- Download the Chrome WebDriver compatible with your Chrome browser version from Chrome WebDriver Downloads and ensure it's in your system's PATH.
+- Install Selenium
+- Install BeautifulSoup
 
 **Usage**
 
