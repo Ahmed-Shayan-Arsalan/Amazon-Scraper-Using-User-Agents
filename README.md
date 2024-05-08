@@ -1,4 +1,16 @@
 **Project Setup And Guidelines**
+
+## Overview
+
+This Amazon Product Scraper is a tool designed to extract product information from various categories on Amazon.com. It scrapes product data including name, price, description, colors, up to 5000 reviews and other relevant details, and stores it in JSON format for further analysis or use.
+
+## Features
+
+- Scrapes products from multiple categories.
+- Navigates through subcategories and sub-subcategories.
+- Stores scraped data in JSON format.
+- Easy to use and customize.
+
 ## Dependencies
 - Download the Chrome WebDriver compatible with your Chrome browser version from Chrome WebDriver Downloads and ensure it's in your system's PATH.
 - Install Selenium
