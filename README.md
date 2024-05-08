@@ -9,7 +9,7 @@
 - Selenium
 - BeautifulSoup
 
-**Script Description**
+## Script Description
 
 Imports necessary libraries.
 
@@ -20,7 +20,7 @@ Navigate to Amazon's main page and select Men's Fashion category.
 Iterates through product pages, scraping product information, including URLs, titles, categories, genders, descriptions, image URLs, prices, and reviews.
 Stores the collected data in a JSON file.
 
-**Sample Output:**
+## Sample Output:
 Scraped data includes product URLs, titles, categories, genders, descriptions, image URLs, prices, and reviews.
 Notes
 
