@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Amazon Product Scraper is a tool designed to extract product information from various categories on Amazon.com. It scrapes product data including name, price, description, colors, up to 5000 reviews (This Code Can Potentially Scrap Thousands Of Iterations Of Products) and other relevant details, and stores it in JSON format for further analysis or use.
+This Amazon Product Scraper is a tool designed to extract product information from various categories on Amazon.com. It scrapes product data including name, price, description, colors, up to 5000 reviews (This Code Can Potentially Scrap Thousands Of Iterations Of Products), and other relevant details, and stores it in JSON format for further analysis or use.
 
 ## Features
 
@@ -34,7 +34,7 @@ Iterates through product pages, scraping product information, including URLs, ti
 Stores the collected data in a JSON file.
 
 ## Sample Output:
-Scraped data includes product URLs, titles, categories, genders, descriptions, image URLs, prices, and reviews.
+Scraped data includes product URLs, titles, categories, genders, descriptions, image URLs, prices, color, and reviews.
 
 Adjustments may be needed for XPath selectors or sleep times based on Amazon's site changes or network conditions.
 Ensure compliance with Amazon's terms of service and robots.txt when scraping data from their website.
