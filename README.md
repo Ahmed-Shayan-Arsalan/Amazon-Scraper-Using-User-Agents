@@ -20,6 +20,7 @@ This Amazon Product Scraper is a tool designed to extract product information fr
 - Python 3
 - Selenium
 - BeautifulSoup
+- Any IDE of your choosing
 
 ## Script Description
 
