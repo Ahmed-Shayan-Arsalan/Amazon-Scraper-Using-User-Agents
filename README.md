@@ -24,7 +24,7 @@ This Amazon Product Scraper is a tool designed to extract product information fr
 
 ## Script Description
 
-Imports necessary libraries.
+Imports necessary libraries beforehand.
 
 Configures Chrome options and initializes the WebDriver.
 
